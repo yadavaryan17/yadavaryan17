@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Airbnb clone](https://alpha-project-egqo.onrender.com/listings/67992ecedb7786ee3b2777c3 )
+- [Airbnb clone](https://wanderlust-backend-project.onrender.com/)
 
 <!-- BLOG-POST-LIST:END -->
 
